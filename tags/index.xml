@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Call me lucheng</title>
-    <link>http://chengLuNerd.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Call me lucheng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:34:41 -0500</lastBuildDate>
     
-	<atom:link href="http://chengLuNerd.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Classic</title>
-      <link>http://chengLuNerd.github.io/tags/classic/</link>
+      <link>/tags/classic/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>http://chengLuNerd.github.io/tags/classic/</guid>
+      <guid>/tags/classic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>http://chengLuNerd.github.io/tags/code/</link>
+      <link>/tags/code/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>http://chengLuNerd.github.io/tags/code/</guid>
+      <guid>/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poem</title>
-      <link>http://chengLuNerd.github.io/tags/poem/</link>
+      <link>/tags/poem/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>http://chengLuNerd.github.io/tags/poem/</guid>
+      <guid>/tags/poem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>http://chengLuNerd.github.io/tags/story/</link>
+      <link>/tags/story/</link>
       <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
       
-      <guid>http://chengLuNerd.github.io/tags/story/</guid>
+      <guid>/tags/story/</guid>
       <description></description>
     </item>
     
